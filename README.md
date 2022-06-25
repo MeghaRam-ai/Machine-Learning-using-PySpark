@@ -14,11 +14,11 @@ Spark installation : https://spark.apache.org/downloads.html
 
 Docker installation : https://docs.docker.com/engine/install/
 
-## Pyspark and jupyter notebook set up
+### Pyspark and jupyter notebook set up
 
 Sign up to docker and pull this container : https://hub.docker.com/r/jupyter/pyspark-notebook
 
- ## Additional info
+ ### Additional info
 
  For additional information on pyspark and jupyter on docker check these two links :
 
@@ -26,6 +26,6 @@ Sign up to docker and pull this container : https://hub.docker.com/r/jupyter/pys
 
  - https://spark.apache.org/docs/latest/api/python/
 
- ## Project
+ ### Project
 
  After setting up everything, clone this repository and run it 
